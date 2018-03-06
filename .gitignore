@@ -1,0 +1,9 @@
+*.pyc
+*.spyderworkspace
+*.coverage
+*coverage
+data/zips_manhattan.csv
+*.ipynb_checkpoints
+*.csv
+
+
